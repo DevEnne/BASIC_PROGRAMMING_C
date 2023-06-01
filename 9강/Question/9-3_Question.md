@@ -1,5 +1,5 @@
 - (BP2023) 9장 (3) : 유용한 배열 함수작성 LAB. 변형(p365)
-- 
+
 # 문제 설명
 크기가 5인 int형 배열 v의 원소를 입력받고 원소의 평균과 표준편차를 출력하는 함수  
 ```double get_array_avg(int *v, int n), double get_array_std(int *v, double avg, int n)``` 함수를 작성하라.  
